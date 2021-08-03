@@ -20,6 +20,8 @@ Constraints:
 n == height.length
 0 <= n <= 2 * 104
 0 <= height[i] <= 105
+
+TIME COMPLEXITY = O(N2)
 */
 #include <iostream>
 using namespace std;
